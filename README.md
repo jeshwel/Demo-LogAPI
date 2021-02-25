@@ -18,4 +18,6 @@ The API key need to be passed in **header** of each request,
 
 ![PostMessage](/Documentation/PostMessageScreenshot.png)
 
+*Note: Since this is a small sample project it has not been separated into a layered architecture.*
+
 
