@@ -2,7 +2,7 @@
 
 **Project** - .Net Core 3.1 Web Api
 
-*Used VS2019 to build and run the project (Windows environment - No docker container added).*
+*Used **VS2019** to build and run the project (Windows environment - No docker container added).*
 
 The API is protected by an API key based Authentication.
 
@@ -22,6 +22,6 @@ There is provision to configure different API key for other clients, if needed.
 
 ![PostMessage](/Documentation/PostMessageScreenshot.png)
 
-*Note: Since this is a small sample project it has not been separated into a layered architecture.*
+*Note: Since this is a small sample project it has not been separated into a layered architecture. Use **VS2019** to build and run the project.*
 
 
